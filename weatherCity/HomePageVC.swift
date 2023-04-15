@@ -1,4 +1,4 @@
-//çok garip gerçekten
+//weatherCity
 
 import UIKit
 import CoreLocation
